@@ -8,8 +8,6 @@ def divide (x,y):
     return x/y
 print("Podaj działanie posługując się odpowiednią liczbą: 1.Dodawanie , 2.Odejmowanie , 3.Mnożenie , 4.Dzielenie")
 choice=input("Które działanie chcesz wykonać? Wybierz (1/2/3/4) :")
-#num1=float(input("Podaj pierwszą liczbę :"))
-#num2=float(input("Podaj drugą liczbę :"))
 if choice=='1':
     num1=float(input("Podaj pierwszą liczbę :"))
     num2=float(input("Podaj drugą liczbę :"))
