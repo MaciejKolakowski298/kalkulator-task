@@ -30,4 +30,4 @@ elif choice=='4':
     print("Wynik działania to: ", divide(num1,num2))
 else:
     pass
-    print("Wybrałeś niewłaściwe działanie")
+    print("Wybrałeś działanie z poza listy")
